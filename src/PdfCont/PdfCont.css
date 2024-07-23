@@ -1,0 +1,15 @@
+
+.PdfContainer {
+    display: flex;
+    height: 90%;
+    position: absolute;
+  
+    .PdfViewer {
+      display: flex;
+      height: 90%;
+    }
+    
+    .PdfButton {
+      
+    }
+  }
